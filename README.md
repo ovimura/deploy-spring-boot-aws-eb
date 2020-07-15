@@ -117,7 +117,7 @@ You will be using deploying a variety of projects to Amazon Web Services (AWS). 
 - Step 06 - Exploring Logs from AWS Elastic Beanstalk Application Java JAR Environments
 
 ### Deploying Java Spring Boot H2 Web App to AWS Elastic Beanstalk
-- Step 01 - Running 03 Spring Boot H2 Web App on Local
+- Step 01 - Running 03 Spring Boot H2 Web App on Local, i.e. mvn spring-boot:run
 - Step 02 - Deploying 03 Spring Boot H2 Web App WAR to AWS Elastic Beanstalk
 - Step 03 - Testing 03 Spring Boot H2 Web App AWS Deployment
 - Step 04 - Exploring AWS Environment logs of 03 Spring Boot H2 Web App
